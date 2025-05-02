@@ -3,10 +3,10 @@
 <pre lang="markdown">
 ```bash
   # Clone the repository 
-  git clone https://github.com/your-username/your-repo.git 
+  git clone https://github.com/immortalgky/interview_may25.git 
   
   # Go into the project directory 
-  cd your-repo 
+  cd interview_may25 
   
   # Install dependencies 
   npm install 
