@@ -6,7 +6,7 @@
   git clone https://github.com/immortalgky/interview_mar26.git
   
   # Go into the project directory 
-  cd interview_may25 
+  cd interview_mar26 
   
   # Install dependencies 
   npm install 
